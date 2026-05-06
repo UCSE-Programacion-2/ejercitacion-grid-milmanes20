@@ -109,6 +109,13 @@
 .post-main{
   margin:20px; 
 }
+
+.post-hr{
+  
+  margin-top: 1em;
+  margin-left: 0em;
+  margin-right: 0em;
+}
   .post-header {
     display: flex;
     align-items: center;
